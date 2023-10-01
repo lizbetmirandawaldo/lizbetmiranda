@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi there👋, I'm Lizbet Miranda</h1>
 <h3 align="center">A passionate Full- stak developer from Mexico</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3841F7&width=435&lines=Engineer+student++%2B+TCPRO+student)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Engineer+student+and+TCPRO+" alt="Typing SVG" /></a>
 - 🌱 I’m currently learning **JAVA**
 
 - 🤝 I’m looking for help with **@IBM**
