@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **@IBM**
 
-- 👨‍💻 All of my projects are available at lizbetmirandawaldo.github.io
+- 👨‍💻 All of my projects are available at https://github.com/lizbetmirandawaldo/lizbetmirandawaldo.github.io
 
 - 📫 How to reach me **liz.waldo.muser@gmail.com**
 
